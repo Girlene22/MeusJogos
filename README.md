@@ -1,2 +1,2 @@
 # MeusJogos
- Jogos desenvolvidos em JavaScript e GML.
+ Esse jogo foi desenvolvido em JavaScript
