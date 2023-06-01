@@ -2,9 +2,11 @@ html {
 	cursor: url(../imagens/mata_mosquito.png) 30 30, auto;
 }
 body {
+	
+	background-color:#25aba2;
 	background-image: url(../imagens/bg.jpg);
 	background-repeat: no-repeat;
-	background-size: 100%;
+	background-size: cover;
 }
 .mosquito1 {
 	width: 70px;
@@ -40,4 +42,21 @@ body {
 	float: left;
 	font-size: 20px;
 	font-weight: bold;
+}
+.container {
+	margin-top: 20px;
+}
+
+.game-image {
+	max-width: 100%;
+	height: auto;
+}
+
+.select-level {
+	max-width: 300px;
+	margin: 20px auto;
+}
+
+.start-button {
+	margin-top: 20px;
 }
